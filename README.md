@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hello there! I'm Federico 👋</h1>
 
 <!--
 **fhtallarico/fhtallarico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>⭐ Languages and Tools:</h2>
+
+<h2>📌 My proyects:</h2>
+
+<h3>E-commerce Boomsounds</h3>
+
+<h3>Find your Henry</h3>
+
+
